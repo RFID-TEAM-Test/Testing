@@ -14,5 +14,7 @@ BRAVO!!!!!!!!!!! going to commit this and see whats next hmmm.
 fiwueghgsviwrfo ewghagbwio
 
 You know what I'm saying
-yeas bro I know what you are saying hha 
+yeas bro I know what you are saying hha
 
+Aly Moursy , Moursy.aly@gmail.com
+Trying to add text with git command line
